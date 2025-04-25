@@ -21,5 +21,5 @@
 </p>
 <h6>Contacts</h6>
 <p>
-  Email: sujanchaudhary900@gmail.com
+  Email: mrsujan321@gmail.com
 </p>
