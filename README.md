@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sujan, Nodejs developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png" width="13"/> <b>Kathmandu, Nepal</b>
+<p>Welcome to my page! </br> I'm Sujan, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png" width="13"/> <b>Kathmandu, Nepal</b>
 <h3>Things I code with</h3>
 <p >
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
